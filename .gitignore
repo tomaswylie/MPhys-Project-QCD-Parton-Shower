@@ -1,0 +1,11 @@
+*.pdf
+*.png
+*.yoda
+__pycache__/
+rivet-plots/
+venv/
+*.txt
+*.conf
+test
+*.md
+*.tex
