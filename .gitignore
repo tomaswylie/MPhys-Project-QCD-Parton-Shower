@@ -8,3 +8,4 @@ venv/
 *.conf
 test
 *.tex
+.DS_Store
